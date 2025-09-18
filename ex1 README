@@ -1,7 +1,7 @@
-# Linear Regression — Programming Exercise 1 (Andrew Ng course–style)
+# Linear Regression — Programming Exercise 1
 
 Hey! This repo contains **my own project work** inspired by Andrew Ng’s *Machine Learning* course on Coursera.  
-I’m sharing **my code and experiments only** — not any Coursera-owned materials (slides, prompts, datasets).
+I’m sharing **my code and experiments only** 
 
 ---
 
@@ -16,7 +16,6 @@ Along the way, the notebook:
 - Plots the raw data (scatter)
 - Implements the cost function **J(θ)** and tracks it during training
 - Visualizes the **3D cost surface** and **contours** for θ₀/θ₁
-- (If needed) does some basic feature scaling
 
 If you just want to *see something work*, open the notebook and hit “Run All”. If you want to *understand* what’s happening, read the short notes in each section.
 
