@@ -1,0 +1,16 @@
+# Logistic Regression — Programming Exercise 2 
+
+Hey! This repo collects **my project work** for logistic regression, inspired by Andrew Ng’s Coursera course.  
+I’m sharing **my code and experiments only**.
+
+---
+
+## What this is:
+
+I built a logistic regression classifier to predict a binary outcome, then extended it with L2 regularization, decision boundary visualization, and numerical optimization.
+- Uses a sigmoid activation and a cross-entropy cost function
+- Computes analytical gradients and verifies learning behavior
+- Adds L2 regularization to reduce overfitting
+- Plots the decision boundary so you can see what the model learned
+
+If you just want to *see it work*, open the notebook and hit **Run All**. If you want to *understand* it, read the short notes sprinkled through the sections.
